@@ -15,7 +15,7 @@ function App() {
 
         <div className='dude'>
           <h1>
-            Redux-Cart
+            React-Redux-Cart
           </h1>
         </div>
         <Provider store={store}>
